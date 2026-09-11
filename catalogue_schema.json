@@ -1,0 +1,26 @@
+{
+  "title": "Imported catalogue",
+  "description": "Catalogue imported through the visual designer.",
+  "identity_field": "id",
+  "title_field": "title",
+  "description_field": "id",
+  "embedding_fields": [
+    "id",
+    "title"
+  ],
+  "fields": [
+    {
+      "id": "id",
+      "label": "Id",
+      "type": "text",
+      "required": true,
+      "unique": true
+    },
+    {
+      "id": "title",
+      "label": "Title",
+      "type": "text",
+      "required": true
+    }
+  ]
+}
