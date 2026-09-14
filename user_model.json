@@ -1,5 +1,38 @@
 {
   "title": "User model",
   "description": "Relatively stable characteristics and preferences used for personalisation.",
-  "fields": []
+  "fields": [
+    {
+      "id": "preferred_genre",
+      "label": "Preferred genre",
+      "type": "select",
+      "default": "Action",
+      "include_in_retrieval": true,
+      "item_fields": [
+        "genre"
+      ],
+      "weight": 1.5,
+      "matching": "exact",
+      "options": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Coming-of-Age",
+        "Crime",
+        "Disaster",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Monster",
+        "Music",
+        "Mystery",
+        "Period Piece",
+        "Romance",
+        "Sci-Fi",
+        "Survival",
+        "Thriller",
+        "War"
+      ]
+    }
+  ]
 }

@@ -1,5 +1,18 @@
 {
   "title": "Context model",
   "description": "Temporary information describing the current recommendation situation.",
-  "fields": []
+  "fields": [
+    {
+      "id": "trending_director",
+      "label": "Trending director",
+      "type": "text",
+      "default": "",
+      "include_in_retrieval": true,
+      "item_fields": [
+        "director"
+      ],
+      "weight": 1.5,
+      "matching": "exact"
+    }
+  ]
 }

@@ -1,0 +1,21 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimensions": 384,
+  "item_count": 13,
+  "item_ids": [
+    "no_time_to_die",
+    "zelary",
+    "blue_is_the_warmest_colour",
+    "little_trouble_gitls",
+    "dj_ahmet",
+    "pride_and_prejudice",
+    "falcon_lake",
+    "little_women",
+    "barbie",
+    "dinosaur_hotel",
+    "dinosaur_hotel_3",
+    "snake_hotel",
+    "firenado"
+  ],
+  "configuration_sha256": "ec0c7320fae3ca04c7ab73e05c2cf898ed155de9f8008eb9c067537c6a07d3c9"
+}

@@ -1,12 +1,20 @@
 {
-  "title": "Imported catalogue",
-  "description": "Catalogue imported through the visual designer.",
+  "title": "Films",
+  "description": "",
   "identity_field": "id",
   "title_field": "title",
-  "description_field": "id",
+  "description_field": "description",
   "embedding_fields": [
     "id",
-    "title"
+    "title",
+    "year",
+    "genre",
+    "director",
+    "studio",
+    "original_language",
+    "duration",
+    "imdb_score",
+    "description"
   ],
   "fields": [
     {
@@ -19,6 +27,81 @@
     {
       "id": "title",
       "label": "Title",
+      "type": "text",
+      "required": true
+    },
+    {
+      "id": "year",
+      "label": "Year",
+      "type": "number",
+      "required": true
+    },
+    {
+      "id": "genre",
+      "label": "Genre",
+      "type": "select",
+      "required": true,
+      "options": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Coming-of-Age",
+        "Crime",
+        "Disaster",
+        "Drama",
+        "Fantasy",
+        "Horror",
+        "Monster",
+        "Music",
+        "Mystery",
+        "Period Piece",
+        "Romance",
+        "Sci-Fi",
+        "Survival",
+        "Thriller",
+        "War"
+      ]
+    },
+    {
+      "id": "director",
+      "label": "Director",
+      "type": "text",
+      "required": true
+    },
+    {
+      "id": "studio",
+      "label": "Studio",
+      "type": "text",
+      "required": false
+    },
+    {
+      "id": "original_language",
+      "label": "Original Language",
+      "type": "select",
+      "required": true,
+      "options": [
+        "en",
+        "fr",
+        "cs",
+        "sl",
+        "tr"
+      ]
+    },
+    {
+      "id": "duration",
+      "label": "Duration",
+      "type": "number",
+      "required": true
+    },
+    {
+      "id": "imdb_score",
+      "label": "IMDb Score",
+      "type": "number",
+      "required": false
+    },
+    {
+      "id": "description",
+      "label": "Description",
       "type": "text",
       "required": true
     }

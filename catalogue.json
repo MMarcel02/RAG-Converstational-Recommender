@@ -1,6 +1,222 @@
 [
   {
-    "id": "title",
-    "title": "Title"
+    "id": "no_time_to_die",
+    "title": "No Time to Die",
+    "year": 2021,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "director": "Cary Joji Fukunaga",
+    "studio": "Metro-Goldwyn-Mayer / Eon Productions",
+    "original_language": "en",
+    "duration": 163,
+    "imdb_score": 7.3,
+    "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology."
+  },
+  {
+    "id": "zelary",
+    "title": "Želary",
+    "year": 2003,
+    "genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ],
+    "director": "Ondřej Trojan",
+    "studio": "Total HelpArt T.H.A. / Barrandov Studios",
+    "original_language": "cs",
+    "duration": 150,
+    "imdb_score": 7.5,
+    "description": "A nurse is part of the resistance in 1940s Czech Republic. She is discovered and must find a place to hide. A patient whose life she saved, from a remote mountain village where time stopped 150 years ago, agrees to hide her as his wife."
+  },
+  {
+    "id": "blue_is_the_warmest_colour",
+    "title": "Blue Is the Warmest Colour",
+    "year": 2013,
+    "genres": [
+      "Coming-of-Age",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Abdellatif Kechiche",
+    "studio": "Wild Bunch / Quat'sous Films / Alcatraz Films",
+    "original_language": "fr",
+    "duration": 180,
+    "imdb_score": 7.6,
+    "description": "Adèle's life is changed when she meets Emma, a young woman with blue hair, who will allow her to discover desire and to assert herself as a woman and as an adult. In front of others, Adèle grows, seeks herself, loses herself, and ultimately finds herself through love and loss."
+  },
+  {
+    "id": "little_trouble_gitls",
+    "title": "Little Trouble Girls",
+    "year": 2025,
+    "genres": [
+      "Coming-of-Age",
+      "Drama",
+      "Romance"
+    ],
+    "director": "Urska Djukic",
+    "studio": "SPOK Films / Staragara",
+    "original_language": "sl",
+    "duration": 89,
+    "imdb_score": 6.5,
+    "description": "16-year-old Lucia joins Catholic school choir, befriends senior Ana-Maria. During choir retreat at convent, Lucia's attraction to a restoration worker creates tension with Ana-Maria and challenges her faith."
+  },
+  {
+    "id": "dj_ahmet",
+    "title": "DJ Ahmet",
+    "year": 2025,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Music",
+      "Coming-of-Age"
+    ],
+    "director": "Georgi M. Unkovski",
+    "studio": "Cinema Futura",
+    "original_language": "en",
+    "duration": 99,
+    "imdb_score": 7.2,
+    "description": "A 15-year-old Yuruk boy from a remote Macedonian village escapes into music amidst parental expectations, societal conservatism, and forbidden love for a promised girl."
+  },
+  {
+    "id": "pride_and_prejudice",
+    "title": "Pride & Prejudice",
+    "year": 2005,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Period Piece"
+    ],
+    "director": "Joe Wright",
+    "studio": "Working Title Films / StudioCanal",
+    "original_language": "en",
+    "duration": 129,
+    "imdb_score": 7.8,
+    "description": "When Elizabeth Bennet meets the handsome Mr. Darcy, she believes he is the last man she could ever marry, but as their lives become intertwined, she finds herself captivated by the man she has sworn to hate forever."
+  },
+  {
+    "id": "falcon_lake",
+    "title": "Falcon Lake",
+    "year": 2022,
+    "genres": [
+      "Coming-of-Age",
+      "Drama",
+      "Romance",
+      "Mystery",
+      "Fantasy"
+    ],
+    "director": "Charlotte Le Bon",
+    "studio": "Metafilms / Cinéfrance Studios",
+    "original_language": "fr",
+    "duration": 100,
+    "imdb_score": 7,
+    "description": "A shy teenager on a summer vacation experiences the joy and pain of young adulthood when he forges an unlikely bond with an older girl."
+  },
+  {
+    "id": "little_women",
+    "title": "Little Women",
+    "year": 2019,
+    "genres": [
+      "Drama",
+      "Romance",
+      "Period Piece",
+      "Coming-of-Age"
+    ],
+    "director": "Greta Gerwig",
+    "studio": "Columbia Pictures / Regency Enterprises",
+    "original_language": "en",
+    "duration": 135,
+    "imdb_score": 7.7,
+    "description": "In 19th century Massachusetts, the March sisters--Meg, Jo, Beth, and Amy--on the threshold of womanhood, go through many ups and downs in life and endeavor to make important decisions about their futures."
+  },
+  {
+    "id": "barbie",
+    "title": "Barbie",
+    "year": 2023,
+    "genres": [
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": "Greta Gerwig",
+    "studio": "Warner Bros. Pictures / Heyday Films / LuckyChap Entertainment",
+    "original_language": "en",
+    "duration": 114,
+    "imdb_score": 6.8,
+    "description": "Barbie and Ken are having the time of their lives in the seemingly perfect world of Barbie Land. However, when they get a chance to go to the outside world, they soon discover the joys and perils of living among regular humans."
+  },
+  {
+    "id": "dinosaur_hotel",
+    "title": "Dinosaur Hotel",
+    "year": 2021,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Action",
+      "Thriller",
+      "Monster"
+    ],
+    "director": "Jack Peter Mundy",
+    "studio": "Jagged Edge Productions",
+    "original_language": "en",
+    "duration": 77,
+    "imdb_score": 2.1,
+    "description": "Sienna is desperate to win a large cash prize in a secret underground game show, but dinosaurs begin to hunt her down for the entertainment of the rich and wealthy. Can she be the last to survive the horrific night to win the prize?"
+  },
+  {
+    "id": "dinosaur_hotel_3",
+    "title": "Dinosaur Hotel 3",
+    "year": 2024,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Action",
+      "Monster",
+      "Survival"
+    ],
+    "director": "Tyler-James",
+    "studio": "Jagged Edge Productions",
+    "original_language": "en",
+    "duration": 77,
+    "imdb_score": 2.9,
+    "description": "A group of people with dodgy backgrounds wake up in a hotel infested with Dinosaurs and soon discover they must play the games to survive the night."
+  },
+  {
+    "id": "snake_hotel",
+    "title": "Snake Hotel",
+    "year": 2023,
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Action",
+      "Monster",
+      "Survival"
+    ],
+    "director": "Charles Solly",
+    "studio": "Jagged Edge Productions",
+    "original_language": "en",
+    "duration": 84,
+    "imdb_score": 2.3,
+    "description": "A group of inmates make a gamble to shorten their prison sentences by taking part in a game of cat and mouse with a giant mutated snake."
+  },
+  {
+    "id": "firenado",
+    "title": "Firenado",
+    "year": 2023,
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Thriller",
+      "Disaster",
+      "Crime"
+    ],
+    "director": "Tom Jolliffe",
+    "studio": "Dark Abyss Productions",
+    "original_language": "en",
+    "duration": 81,
+    "imdb_score": 2.4,
+    "description": "An accountant for the mob has to escape a whirlwind of fire while being chased by armed robbers"
   }
 ]
