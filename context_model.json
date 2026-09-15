@@ -32,7 +32,7 @@
         "tr"
       ],
       "constraint": {
-        "operator": "minimum",
+        "operator": "equals",
         "item_field": "original_language"
       }
     }
