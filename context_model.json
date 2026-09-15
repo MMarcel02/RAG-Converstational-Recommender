@@ -1,18 +1,40 @@
 {
   "title": "Context model",
-  "description": "Temporary information describing the current recommendation situation.",
+  "description": "",
   "fields": [
     {
       "id": "trending_director",
       "label": "Trending director",
       "type": "text",
-      "default": "",
+      "default": "Tyler-James",
       "include_in_retrieval": true,
       "item_fields": [
         "director"
       ],
-      "weight": 1.5,
+      "weight": 1.25,
       "matching": "exact"
+    },
+    {
+      "id": "filter_by_language",
+      "label": "Filter by language",
+      "type": "select",
+      "default": "en",
+      "include_in_retrieval": false,
+      "item_fields": [
+        "original_language"
+      ],
+      "weight": 1,
+      "options": [
+        "en",
+        "fr",
+        "cs",
+        "sl",
+        "tr"
+      ],
+      "constraint": {
+        "operator": "minimum",
+        "item_field": "original_language"
+      }
     }
   ]
 }

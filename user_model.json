@@ -1,38 +1,30 @@
 {
   "title": "User model",
-  "description": "Relatively stable characteristics and preferences used for personalisation.",
+  "description": "User that loves bad horror movies",
   "fields": [
     {
       "id": "preferred_genre",
       "label": "Preferred genre",
-      "type": "select",
-      "default": "Action",
+      "type": "text",
+      "default": "Horror Mystery",
       "include_in_retrieval": true,
       "item_fields": [
-        "genre"
+        "genres"
       ],
       "weight": 1.5,
-      "matching": "exact",
-      "options": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Coming-of-Age",
-        "Crime",
-        "Disaster",
-        "Drama",
-        "Fantasy",
-        "Horror",
-        "Monster",
-        "Music",
-        "Mystery",
-        "Period Piece",
-        "Romance",
-        "Sci-Fi",
-        "Survival",
-        "Thriller",
-        "War"
-      ]
+      "matching": "token_overlap"
+    },
+    {
+      "id": "loves_bad_movies",
+      "label": "Low IMDB Score",
+      "type": "number",
+      "default": 10,
+      "include_in_retrieval": false,
+      "item_fields": [
+        "imdb_score"
+      ],
+      "weight": 2,
+      "matching": "prefer_smaller"
     }
   ]
 }
