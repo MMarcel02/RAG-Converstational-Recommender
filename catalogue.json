@@ -358,5 +358,101 @@
     "duration": 97,
     "imdb_score": 7.6,
     "description": "In a remote Turkish village, five orphaned sisters' innocent interaction with boys triggers an extreme conservative backlash that turns their home into a prison."
+  },
+  {
+    "id": "godzilla_2014",
+    "title": "Godzilla",
+    "year": 2014,
+    "genres": "action sci-fi horror thriller monster",
+    "director": "Gareth Edwards",
+    "studio": "Warner Bros. Pictures / Legendary Pictures",
+    "original_language": "en",
+    "duration": 123,
+    "imdb_score": 6.4,
+    "description": "The world is beset by the appearance of monstrous creatures, but one of them may be the only thing capable of saving humanity."
+  },
+  {
+    "id": "kong_skull_island",
+    "title": "Kong: Skull Island",
+    "year": 2017,
+    "genres": "action adventure sci-fi horror monster",
+    "director": "Jordan Vogt-Roberts",
+    "studio": "Warner Bros. Pictures / Legendary Pictures",
+    "original_language": "en",
+    "duration": 118,
+    "imdb_score": 6.7,
+    "description": "After the Vietnam War, a team of scientists and soldiers explores an uncharted island in the Pacific, venturing into the domain of the mighty Kong and subterranean terrors."
+  },
+  {
+    "id": "cloverfield",
+    "title": "Cloverfield",
+    "year": 2008,
+    "genres": "horror sci-fi action monster survival",
+    "director": "Matt Reeves",
+    "studio": "Paramount Pictures / Bad Robot",
+    "original_language": "en",
+    "duration": 85,
+    "imdb_score": 7.0,
+    "description": "A group of friends venture deep into the streets of New York on a rescue mission during a rampaging attack by a gigantic monster of unknown origin."
+  },
+  {
+    "id": "the_mist",
+    "title": "The Mist",
+    "year": 2007,
+    "genres": "horror sci-fi thriller monster survival",
+    "director": "Frank Darabont",
+    "studio": "Dimension Films / Darkwoods Productions",
+    "original_language": "en",
+    "duration": 126,
+    "imdb_score": 7.1,
+    "description": "A freak storm unleashes a species of bloodthirsty creatures on a small town, where a small band of citizens hole up in a supermarket and fight for their lives."
+  },
+  {
+    "id": "brotherhood_of_the_wolf",
+    "title": "Brotherhood of the Wolf",
+    "year": 2001,
+    "genres": "action adventure horror period piece monster",
+    "director": "Christophe Gans",
+    "studio": "StudioCanal / Davis Films",
+    "original_language": "fr",
+    "duration": 142,
+    "imdb_score": 7.0,
+    "description": "In 18th-century France, a knight and his Iroquois companion are sent by the King to investigate a monstrous beast terrorizing the countryside of Gévaudan."
+  },
+  {
+    "id": "the_deep_dark",
+    "title": "The Deep Dark",
+    "year": 2023,
+    "genres": "horror adventure fantasy monster survival",
+    "director": "Mathieu Turi",
+    "studio": "Full Time Studio / Marcel Films",
+    "original_language": "fr",
+    "duration": 103,
+    "imdb_score": 6.0,
+    "description": "In 1950s northern France, a crew of miners escorting a professor underground are trapped after a cave-in and awaken an ancient, bloodthirsty beast buried in the depths."
+  },
+  {
+    "id": "under_paris",
+    "title": "Under Paris",
+    "year": 2024,
+    "genres": "action horror sci-fi monster thriller",
+    "director": "Xavier Gens",
+    "studio": "Let Me Be",
+    "original_language": "fr",
+    "duration": 101,
+    "imdb_score": 5.2,
+    "description": "A grieving marine scientist discovers that an enormous mutated shark is nesting in the Seine River just days before an international triathlon championship in Paris."
+  },
+  {
+    "id": "cold_ground",
+    "title": "Cold Ground",
+    "year": 2017,
+    "genres": "horror sci-fi monster found footage",
+    "director": "Fabien Delage",
+    "studio": "Fright House Pictures",
+    "original_language": "fr",
+    "duration": 86,
+    "imdb_score": 4.1,
+    "description": "In 1976, two journalists hike up the snowy French-Swiss border to investigate bizarre cattle mutilations and find themselves pursued by predatory humanoid beasts."
   }
 ]
